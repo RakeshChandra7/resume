@@ -1,0 +1,48 @@
+{
+  "career":{
+    "info":"To ensue a highly profitable career, seeking for a challenging job and healthy work environment where I can utilize my skills, experience and knowledge efficiently for organizational goal."
+  },
+  "education":[
+    {
+      "degree":"S.S.C",
+      "school":"BASHYAM PUBLIC SCHOOL",
+      "data":["2013","73%"]
+    },
+    {
+      "degree":"INTER/DIPLOMA",
+      "school":"NARAYANA JUNIOR COLLEGE",
+      "data":["2013-15","81%"]
+    },
+    {
+      "degree":"B.TECH(C.S.E)",
+      "school":"G.PULLAIAH COLLEGE OF ENGINEERING AND TECHNOLOGY",
+      "data":["2015-19","70%"]
+    }
+  ],
+  "skills":[
+    {
+      "name":"Languages",
+      "info":["c","java","python","ubuntu","kotlin","python"]
+    },
+    {
+      "name":"Operating Systems",
+      "info":["windows-10","fedora","kali-linux","ubuntu"]
+    },
+    {
+      "name":"Databases",
+      "info":["mongoDB","mysql","sqlite","oracle","Pdo"]
+    },
+    {
+      "name":"Web Technologies",
+      "info":["Html","Php","Jsp","Asp","Servlets"]
+    },
+    {
+      "name":"FrameWorks",
+      "info":[".Net","Bootstrap","codeIgnite"]
+    },
+    {
+      "name":"Libraries",
+      "info":["JQuery"]
+    }
+  ]
+}
